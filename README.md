@@ -9,8 +9,7 @@ This project is a data analysis and visualization project focused on Fantasy Pre
 
 - Analysis of player statistics, including goals scored, assists, clean sheets, and more.
 - Visualizations to highlight player trends and team performance.
-- Tools for comparing and selecting players based on data.
-- Recommendations for captaincy picks, transfers, and team composition.
+- Recommendations for transfers and team composition.
 
 ## Getting Started
 
