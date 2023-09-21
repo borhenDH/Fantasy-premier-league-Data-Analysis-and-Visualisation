@@ -24,7 +24,7 @@ This project is a data analysis and visualization project focused on Fantasy Pre
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Contact
-# Borhen Eddine Dahech
-# Email Bdahech08@gmail.com
+### Borhen Eddine Dahech
+### Email Bdahech08@gmail.com
 
 
